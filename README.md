@@ -26,6 +26,7 @@ Google Docs for writing the report.
 
 **⚙️ Data Pipeline & Methodology
 **
+
 _1. Data Cleaning (Python)_
 Raw government files often come with complex formatting. The initial processing involved:
 
