@@ -22,16 +22,18 @@ Google Docs for writing the report.
 
 1. Data Cleaning (Python)
 Raw government files often come with complex formatting. The initial processing involved:
+
 A. Column Renaming: Standardized lengthy column headers into clean, lowercase, underscore-separated names for better readability and coding efficiency.
+
 B. Feature Dropping: Identified and removed columns which served no purpose and columns that had "NULL" written instead of just having a blank value.
 
-2. Exploratory Data Analysis (EDA)
+3. Exploratory Data Analysis (EDA)
 Using Jupyter Notebooks, Python was leveraged to understand the underlying distributions and relationships:
 A.  Analyzed state-wise poverty ratios to pinpoint high-priority regions.
 B.  Visualized correlations between poverty indicators and external socio-economic factors.
 C.  Generated distribution plots, bar charts, and heatmaps to reveal hidden structural patterns.
 
-3. Dashboarding (Power BI)
+4. Dashboarding (Power BI)
 The cleaned dataset was imported into Power BI to create a view of the insights:
 
 A. Designed KPI cards for instant overviews.
